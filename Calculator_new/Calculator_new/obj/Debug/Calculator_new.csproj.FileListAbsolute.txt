@@ -1,0 +1,10 @@
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\bin\Debug\Calculator_new.exe.config
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\bin\Debug\Calculator_new.exe
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\bin\Debug\Calculator_new.pdb
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\obj\Debug\Calculator_new.csproj.AssemblyReference.cache
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\obj\Debug\Calculator_new.Form1.resources
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\obj\Debug\Calculator_new.Properties.Resources.resources
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\obj\Debug\Calculator_new.csproj.GenerateResource.cache
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\obj\Debug\Calculator_new.csproj.CoreCompileInputs.cache
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\obj\Debug\Calculator_new.exe
+C:\Users\HAJI LAPTOP\Source\Repos\Calculator_new\Calculator_new\obj\Debug\Calculator_new.pdb
