@@ -1,0 +1,7 @@
+C:\Users\HAJI LAPTOP\Source\Repos\Mark_Sheet\Mark_Sheet\bin\Debug\Mark_Sheet.exe.config
+C:\Users\HAJI LAPTOP\Source\Repos\Mark_Sheet\Mark_Sheet\bin\Debug\Mark_Sheet.exe
+C:\Users\HAJI LAPTOP\Source\Repos\Mark_Sheet\Mark_Sheet\bin\Debug\Mark_Sheet.pdb
+C:\Users\HAJI LAPTOP\Source\Repos\Mark_Sheet\Mark_Sheet\obj\Debug\Mark_Sheet.csproj.AssemblyReference.cache
+C:\Users\HAJI LAPTOP\Source\Repos\Mark_Sheet\Mark_Sheet\obj\Debug\Mark_Sheet.csproj.CoreCompileInputs.cache
+C:\Users\HAJI LAPTOP\Source\Repos\Mark_Sheet\Mark_Sheet\obj\Debug\Mark_Sheet.exe
+C:\Users\HAJI LAPTOP\Source\Repos\Mark_Sheet\Mark_Sheet\obj\Debug\Mark_Sheet.pdb
