@@ -1,0 +1,7 @@
+C:\Users\HAJI LAPTOP\Source\Repos\Loops5\Loops5\bin\Debug\Loops5.exe.config
+C:\Users\HAJI LAPTOP\Source\Repos\Loops5\Loops5\bin\Debug\Loops5.exe
+C:\Users\HAJI LAPTOP\Source\Repos\Loops5\Loops5\bin\Debug\Loops5.pdb
+C:\Users\HAJI LAPTOP\Source\Repos\Loops5\Loops5\obj\Debug\Loops5.csproj.AssemblyReference.cache
+C:\Users\HAJI LAPTOP\Source\Repos\Loops5\Loops5\obj\Debug\Loops5.csproj.CoreCompileInputs.cache
+C:\Users\HAJI LAPTOP\Source\Repos\Loops5\Loops5\obj\Debug\Loops5.exe
+C:\Users\HAJI LAPTOP\Source\Repos\Loops5\Loops5\obj\Debug\Loops5.pdb
